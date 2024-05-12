@@ -20,7 +20,7 @@ O exercício se trata de um contador, no qual o usuário decide o número inicia
 
 ### Links
 
-- Site do projeto: [Projeto](https://bruno-nog.github.io/landing-page-with-grid-agencia-xyz/)
+- Site do projeto: [Projeto](https://bruno-nog.github.io/contador/)
 
 
 ### Feito com:
